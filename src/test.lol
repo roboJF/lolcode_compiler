@@ -6,7 +6,7 @@
 #MAEK PARAGRAF
 The Simpsons! #GIMMEH NEWLINE
 #GIMMEH SOUNDZ
-http://www.televisiontunes.com/themesongs/The%20Simpsons.mp3
+https://soundfxcenter.com/television/the-simpsons/8d82b5_The_Simpsons_Theme_Song.mp3
 #MKAY
 #GIMMEH NEWLINE
 The members of the #GIMMEH BOLD Simpson #MKAY family are:
@@ -17,8 +17,5 @@ The members of the #GIMMEH BOLD Simpson #MKAY family are:
 #GIMMEH ITEM Lisa Simpson #MKAY
 #GIMMEH ITEM Maggie Simpson #MKAY
 #OIC
-#GIMMEH NEWLINE
-Lets watch now: #GIMMEH NEWLINE
-#GIMMEH VIDZ http://www.youtube.com/embed/zoO0s1ukcqQ #MKAY
 #OIC
 #KTHXBYE
